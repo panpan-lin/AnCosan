@@ -16,11 +16,12 @@
 3. What I like about my job
 
 ## How do I become a programmer?
-1. Be curious
+1. Be curious.
 2. Learn the skills: 
    * code.org
    * codecademy.com
-3. If you need help, go to Stackoverflow.com
-4. GitHub is a place where you can find a community of programmers
-5. In Dublin, there are lots of programming communities active on meetup.com
-6. There are also something called 'Hackathons'. Examples of Hackathons I've been to.
+3. Having a problem you want to solve or a goal in mind helps too.
+4. If you need help, go to Stackoverflow.com
+5. GitHub is a place where you can find a community of programmers
+6. In Dublin, there are lots of programming communities active on meetup.com
+7. There are also something called 'Hackathons'. Examples of Hackathons I've been to.
