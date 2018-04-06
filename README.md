@@ -4,6 +4,7 @@
 1. Who are you? What is your dream? What do you like to do in your spare time? Where would you like to see yourself in 5 years time.
 2. Have you ever used a computer? How about a smart phone? What do you use it for?
 3. Is there anything else that you think have a computer in it?
+4. What do you think a programmer do? What are these people? How are they?
 
 ## Computer and programming
 1. What is a computer: `A computer is a machine (mostly electronic) that is able to take information (input), and process it to make new information (output).` Example: abacus, calculator, smart phone, etc. https://simple.wikipedia.org/wiki/Computer
