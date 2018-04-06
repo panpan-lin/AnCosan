@@ -14,10 +14,11 @@
 1. Who I am, what I do in my daily job
 2. what I used to do before, how I get to where I am now.
 3. What I like about my job
+4. Other types of programmer
 
 ## How do I become a programmer?
 1. Be curious.
-2. Learn the skills: 
+2. Learn the skills (there are different programming languages, suitable for different things, but the idea behind progamming is the same): 
    * code.org
    * codecademy.com
 3. Having a problem you want to solve or a goal in mind helps too.
