@@ -22,6 +22,7 @@
 2. Learn the skills (there are different programming languages, suitable for different things, but the idea behind progamming is the same): 
    * code.org
    * codecademy.com
+   * freecodecamp.com
 3. Having a problem you want to solve or a goal in mind helps too.
 4. If you need help, go to Stackoverflow.com
 5. GitHub is a place where you can find a community of programmers
