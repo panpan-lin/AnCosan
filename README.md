@@ -23,3 +23,4 @@
 3. If you need help, go to Stackoverflow.com
 4. GitHub is a place where you can find a community of programmers
 5. In Dublin, there are lots of programming communities active on meetup.com
+6. There are also something called 'Hackathons'. Examples of Hackathons I've been to.
